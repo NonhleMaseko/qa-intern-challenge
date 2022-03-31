@@ -1,0 +1,25 @@
++++Command				Target
+
+
+Open				A new browser tab
+
+Type 				https://www.imdb.com
+
+Press				Enter
+
+Click				Search input
+
+Type				Thor:Ragnarok
+
+Copy				imdb ID from URL
+
+Open				A new browser tab
+
+Type				https://www.omdapi.com
+				
+Type				Add querystring parameters i=tt3501632 (imdb ID copied earlier) and apiKey=e683a2ca to the URL to get https://www.omdapi.com?i=tt3501632&apiKey=e683a2ca
+
+Press				Enter
+
+				Result
+				
